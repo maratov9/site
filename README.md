@@ -1,4 +1,4 @@
-## Мой первый макет/My first layout[посмотрите сами](maratov9.github.io/site/)
+## Мой первый макет/My first layout [посмотрите сами](http://maratov9.github.io/site/)
 
 - Это простая страница без адаптива и JS
 - Используеться HTML и CSS
